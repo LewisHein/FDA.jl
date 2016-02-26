@@ -6,4 +6,4 @@ Functional Data Analysis is an exciting branch of statistics where your data, in
 Installation of this package depends on several other of my packages that I haven't got posted yet. This is coming soon.
 
 ##Further documentation
-I wish I could fork myself as easily as we fork software on GitHub! Until such time as I get some real documentation written, this package will be JIT-documented. In other words, feel free to shoot me a question by e-mail with your questions.
+I wish I could fork myself as easily as we fork software on GitHub! Until such time as I get some real documentation written, this package will be JIT-documented. In other words, feel free to shoot me a question by e-mail with your questions. lhein at uwyo dot edu.
